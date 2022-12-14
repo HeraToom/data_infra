@@ -3,8 +3,8 @@
 
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence,
-# @HeraToom will be requested for
+# 115471251 will be requested for
 # review when someone opens a pull request.
 
 # REPLACE WITH YOUR GITHUB USER ID !!!!
-*       @HeraToom 
+*       115471251
